@@ -7,3 +7,7 @@ runs/
 .DS_Store
 
 .runtime/
+
+# Personal document outputs and PDF working files
+/output/pdf/
+/tmp/pdfs/
