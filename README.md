@@ -1,3 +1,5 @@
+**Tech stack:** Python, Ultralytics YOLO11, OpenCV, ByteTrack, Streamlit, WebRTC, Pandas
+
 # FrameSight
 
 A Python video intelligence dashboard with YOLO11 detection, OpenCV video decoding, ByteTrack tracking, browser webcam streaming, and Pandas statistics.
